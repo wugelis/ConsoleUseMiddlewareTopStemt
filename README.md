@@ -1,1 +1,1 @@
-# EasyArchitect ¦b Console App ¾Ş§@ ConfigurationManager ½d¨Ò
+ï»¿# EasyArchitect åœ¨ Console App æ“ä½œ ConfigurationManager ç¯„ä¾‹
